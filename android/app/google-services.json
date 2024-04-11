@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "40551802364",
+    "project_id": "todolist-fire-eae74",
+    "storage_bucket": "todolist-fire-eae74.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:40551802364:android:146ba1ccc1f2a3cec67e79",
+        "android_client_info": {
+          "package_name": "com.example.todo_list"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIEDxZYybVtSCt7xUCDAdJbs3eTS8-vaw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:40551802364:android:4b3c0b18f8a97e3fc67e79",
+        "android_client_info": {
+          "package_name": "com.example.todolist_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIEDxZYybVtSCt7xUCDAdJbs3eTS8-vaw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
